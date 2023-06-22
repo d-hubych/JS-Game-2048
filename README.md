@@ -4,7 +4,8 @@
 
 ### HOW TO PLAY:
 Use your ↑↓←→ keys on 💻 or swipe with your fingers on 📱 to move the tiles.
-Tiles with the same number merge into one when they touch. Add them up to reach 2048!
+Tiles with the same number merge into one when they touch.
+Add them up to reach 2048!
 
 ## Technologies used:
 - JavaScript
