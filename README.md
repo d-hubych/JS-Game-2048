@@ -1,6 +1,6 @@
 # 2048 Game
 
-###  ***[🕹 DEMO LINK 🕹](https://d-hubych.github.io/JS-Game-2048/)***
+###  ***[🕹  DEMO LINK  🕹](https://d-hubych.github.io/JS-Game-2048/)***
 
 ### HOW TO PLAY:
 Use your ↑↓←→ keys on 💻 or swipe with your fingers on 📱 to move the tiles.
